@@ -1,6 +1,14 @@
 dsgdsgds
 sgdsgdg
+<<<<<<< HEAD
 rhgrgrw
 a
 b
 Chapter
+=======
+
+2
+3
+
+sdgGsg\asdgesgd
+>>>>>>> music
